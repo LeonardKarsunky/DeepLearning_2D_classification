@@ -19,11 +19,7 @@ of PyTorch with much simpler implementation and capabil-
 ities. The problem with which we will test our framework
 is a classification problem, i.e. in our case to classify points
 in a circle. Specifically, the points should have a label 0
-if outside the disk centered at(0. 5 , 0 .5)of radius 1 /
-
-### √
-
-2 π
+if outside the disk centered at(0. 5 , 0 .5)of radius 1 / sqrt(2 * pi)
 and 1 otherwise. A figure showing these points in 2 Dcan
 be seen in Figure 1. Our executable codetest.pywill
 build a standard neural network, more precisely a multi-

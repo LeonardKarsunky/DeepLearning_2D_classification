@@ -1,6 +1,6 @@
 # Deep learning framework for 2D point classification problem
 
-## Leonard KARSUNKY, Aur ́elien ORGIAZZI, Gaspard VILLA
+## Leonard KARSUNKY, Aurelien ORGIAZZI, Gaspard VILLA
 
 ## EPFL, EE-559, Deep Learning
 
